@@ -1,0 +1,51 @@
+/* https://openjfx.io/javadoc/11/javafx.graphics/javafx/scene/doc-files/cssref.html */
+#title {
+	-fx-font-size: 50;
+	-fx-font-weight: bold;
+	-fx-padding: 50;
+}
+
+#sign-up-label, #log-in-label {
+	-fx-font-size: 30;
+	-fx-font-weight: bold;
+	-fx-padding: 10;
+}
+
+#big-button {
+	-fx-padding: 5;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;
+}
+
+#log-out-pane {
+	-fx-alignment: center-right;
+}
+
+#big-button:hover, #big-button:hover, #button:hover {
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+}
+
+#big-button, #button {
+	-fx-background-color: #90d8ef;
+	-fx-background-radius: 10;
+}
+
+#add-chat-button {
+	-fx-background-color: #90d8ef;
+	-fx-font-size: 20;
+}
+
+#system-message-pane {
+	-fx-spacing: 10;
+	-fx-padding: 10;
+}
+
+#button-pane {
+	-fx-alignment: center;
+}
+
+#message-list {
+	-fx-pref-height: 100;
+	-fx-border-color: dimgrey;
+}
+
