@@ -2,9 +2,9 @@
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import swe4.rmi.common.Database;
-import swe4.rmi.common.classes.*;
-import swe4.rmi.dal.ChatDatabase;
+import rmi.common.Database;
+import rmi.common.classes.*;
+import rmi.dal.ChatDatabase;
 
 import java.io.IOException;
 import java.rmi.RemoteException;
