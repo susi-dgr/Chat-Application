@@ -1,4 +1,4 @@
-package swe4.rmi.common;
+package rmi.common;
 
 import java.io.Serializable;
 import java.rmi.Remote;
